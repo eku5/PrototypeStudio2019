@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d4faf19-df03-4a7a-b71a-4fdb768eac9f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeImage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="65" column="34" lean-forward="true" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+              <folding>
+                <marker date="1555293174067" expanded="true" signature="6:113" ph="..." />
+                <marker date="1555293174067" expanded="true" signature="155:1685" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="191:341" ph="/* the renderer that will draw the sprites. Here I'm setting it in code (in Start()) ... */" />
+                <marker date="1555293174067" expanded="true" signature="395:495" ph="/* make list for the order of the images ... */" />
+                <marker date="1555293174067" expanded="true" signature="640:728" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="786:1610" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="840:882" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="923:1270" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="937:1108" ph="/* now that clicks is over 50 let's start giving it a chance to change ... */" />
+                <marker date="1555293174067" expanded="true" signature="1156:1260" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="1323:1522" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="1395:1499" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="1547:1603" ph="{...}" />
+                <marker date="1555293174067" expanded="true" signature="1636:1683" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartOver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1555292732981" expanded="true" signature="6:113" ph="..." />
+                <marker date="1555292732981" expanded="true" signature="153:408" ph="{...}" />
+                <marker date="1555292732981" expanded="true" signature="225:271" ph="{...}" />
+                <marker date="1555292732981" expanded="true" signature="329:342" ph="{...}" />
+                <marker date="1555292732981" expanded="true" signature="366:406" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/BeginGame.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <marker date="1555292861782" expanded="true" signature="6:113" ph="..." />
+                <marker date="1555292861782" expanded="true" signature="154:541" ph="{...}" />
+                <marker date="1555292861782" expanded="true" signature="158:243" ph="/* public AudioClip sound; ... */" />
+                <marker date="1555292861782" expanded="true" signature="259:309" ph="{...}" />
+                <marker date="1555292861782" expanded="true" signature="361:484" ph="{...}" />
+                <marker date="1555292861782" expanded="true" signature="406:481" ph="{...}" />
+                <marker date="1555292861782" expanded="true" signature="504:539" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../NYU Game Center - General/Portrait/Assets/Scripts/RestartAndQuit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../NYU Game Center - General/Portrait/Assets/Scripts/DoNotDestroy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RestartAndQuit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartOver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeImage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BeginGame.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Change_Image.cs" />
+        <option value="$PROJECT_DIR$/Assets/BeginGame.cs" />
+        <option value="$PROJECT_DIR$/../../../NYU Game Center - General/Portrait/Assets/Scripts/RestartAndQuit.cs" />
+        <option value="$PROJECT_DIR$/Assets/RestartAndQuit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartOver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BeginGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeImage.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="57" />
+    <option name="y" value="23" />
+    <option name="width" value="1350" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d4faf19-df03-4a7a-b71a-4fdb768eac9f" name="Default Changelist" comment="" />
+      <created>1555286189689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555286189689</updated>
+      <workItem from="1555286193304" duration="5268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5268000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="57" y="23" width="1350" height="785" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/BeginGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Change_Image.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RestartAndQuit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="80" lean-forward="true" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../NYU Game Center - General/Portrait/Assets/Scripts/RestartAndQuit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../NYU Game Center - General/Portrait/Assets/Scripts/DoNotDestroy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1554613024275" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554613024275" expanded="true" signature="121:359" ph="{...}" />
+            <marker date="1554613024275" expanded="true" signature="140:357" ph="{...}" />
+            <marker date="1554613024275" expanded="true" signature="248:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RestartAndQuit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="31" />
+          <folding>
+            <marker date="1555291481666" expanded="false" signature="6:113" ph="..." />
+            <marker date="1555291481666" expanded="true" signature="158:1004" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="230:251" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="271:581" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="313:360" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="427:479" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="520:575" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="599:825" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="716:774" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="850:897" ph="{...}" />
+            <marker date="1555291481666" expanded="true" signature="929:993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BeginGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <marker date="1555292861782" expanded="true" signature="6:113" ph="..." />
+            <marker date="1555292861782" expanded="true" signature="154:541" ph="{...}" />
+            <marker date="1555292861782" expanded="true" signature="158:243" ph="/* public AudioClip sound; ... */" />
+            <marker date="1555292861782" expanded="true" signature="259:309" ph="{...}" />
+            <marker date="1555292861782" expanded="true" signature="361:484" ph="{...}" />
+            <marker date="1555292861782" expanded="true" signature="406:481" ph="{...}" />
+            <marker date="1555292861782" expanded="true" signature="504:539" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartOver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1555292732981" expanded="true" signature="6:113" ph="..." />
+            <marker date="1555292732981" expanded="true" signature="153:408" ph="{...}" />
+            <marker date="1555292732981" expanded="true" signature="225:271" ph="{...}" />
+            <marker date="1555292732981" expanded="true" signature="329:342" ph="{...}" />
+            <marker date="1555292732981" expanded="true" signature="366:406" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeImage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="65" column="34" lean-forward="true" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+          <folding>
+            <marker date="1555293174067" expanded="true" signature="6:113" ph="..." />
+            <marker date="1555293174067" expanded="true" signature="155:1685" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="191:341" ph="/* the renderer that will draw the sprites. Here I'm setting it in code (in Start()) ... */" />
+            <marker date="1555293174067" expanded="true" signature="395:495" ph="/* make list for the order of the images ... */" />
+            <marker date="1555293174067" expanded="true" signature="640:728" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="786:1610" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="840:882" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="923:1270" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="937:1108" ph="/* now that clicks is over 50 let's start giving it a chance to change ... */" />
+            <marker date="1555293174067" expanded="true" signature="1156:1260" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="1323:1522" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="1395:1499" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="1547:1603" ph="{...}" />
+            <marker date="1555293174067" expanded="true" signature="1636:1683" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
