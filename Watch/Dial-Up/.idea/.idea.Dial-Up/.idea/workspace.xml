@@ -175,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555286189689</updated>
-      <workItem from="1555286193304" duration="5268000" />
+      <workItem from="1555286193304" duration="5425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5268000" />
+    <option name="totallyTimeSpent" value="5425000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,7 +193,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1350" height="785" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
