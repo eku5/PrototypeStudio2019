@@ -883,6 +883,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="AdriftMusic.cs" t="Include" />
+          <e p="CardTracker.cs" t="Include" />
+          <e p="ResetGame.cs" t="Include" />
           <e p="RevealCard.cs" t="Include" />
           <e p="RevealText.cs" t="Include" />
         </e>

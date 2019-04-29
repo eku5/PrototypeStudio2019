@@ -7,72 +7,32 @@ public class RevealCard : MonoBehaviour
 
     public List<GameObject> cards;
     public GameObject showCard;
-    public GameObject backOfCard;
-   
 
-    public bool cardIsFlipped;
-
+    //for randomly selecting a card from the deck
     public int index;
-    public int revealTracker;
+
+    //for keeping track of the order to reveal the cards
+    public CardTracker cardTracker;
+    public int myRevealTracker;
+    
+   
 
     private void OnMouseDown()
     {
-        showCard = cards[index];
-        showCard.SetActive(true);
-        backOfCard.SetActive(false);
-        cardIsFlipped = true;
-        Debug.Log("A card was revealed.");
+        if (myRevealTracker == cardTracker.revealTracker)
+        {
+            //set the showCard (aka the card to be revealed)
+            //picked from the list
+            showCard = cards[index];
+            showCard.SetActive(true);
+            Debug.Log("A card was revealed.");
+            cardTracker.revealTracker++;
+        }
     }
-
-
 
     void Awake()
     {
-        revealTracker = 0;
-        cardIsFlipped = false;
+        //pick a random number from the list
         index = Random.Range(0, cards.Count);
-    }
-    
-    void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
-
-            RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
-            
-            /*if (hit.collider != null)
-            {
-                Debug.Log(hit.collider.gameObject.name);
-
-                if (hit.collider.gameObject.name == "Left_Card" && revealTracker == 0)
-                {
-                    GameObject.Find("Moon").SetActive(true);
-                    GameObject.Find("Moon_Text").SetActive(true);
-                    revealTracker = 1;
-                    Debug.Log("Left card revealed. Reveal tracker: " + revealTracker);
-                }
-                
-                void OnMouseOver()
-                {
-                    //If your mouse hovers over the GameObject with the script attached, output this message
-                    Debug.Log("Mouse is over GameObject.");
-                }
-
-                
-                if (hit.collider.gameObject.name == "Center_Card" && revealTracker == 1)
-                {
-                    GameObject.Find("Star_Reversed").SetActive(true);
-                    GameObject.Find("Star_Reversed_Text").SetActive(true);
-                    Debug.Log("Star Reversed revealed. Reveal tracker: " + revealTracker);
-                    revealTracker = 2;
-                }
-
-                
-            }*/
-        }
-
-
     }
 }
