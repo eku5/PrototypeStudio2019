@@ -93,7 +93,8 @@ namespace Fungus
             executionInfoSet = true;
         }
 
-#if UNITY_EDITOR
+        //This was stupid.
+//#if UNITY_EDITOR
         // The user can modify the command list order while playing in the editor,
         // so we keep the command indices updated every frame. There's no need to
         // do this in player builds so we compile this bit out for those builds.
@@ -116,7 +117,7 @@ namespace Fungus
         public bool IsSelected { get; set; }    //local cache of selectedness
         public bool IsFiltered { get; set; }    //local cache of filteredness
         public bool IsControlSelected { get; set; } //local cache of being part of the control exclusion group
-#endif
+//#endif
 
         #region Public members
 

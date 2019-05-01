@@ -2736,8 +2736,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: This would be a good time to learn and grow. You might find yourself losing
-    focus.
+  m_text: Right now things may seem like they are stagnant. You might even find yourself
+    losing focus. Shifting your perspective can help with this blockage.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2806,19 +2806,19 @@ MonoBehaviour:
   m_margin: {x: 4.19557, y: 0, z: 10.99278, w: 2.390377}
   m_textInfo:
     textComponent: {fileID: 1769110734}
-    characterCount: 209
+    characterCount: 147
     spriteCount: 0
-    spaceCount: 38
-    wordCount: 39
+    spaceCount: 23
+    wordCount: 24
     linkCount: 0
-    lineCount: 7
+    lineCount: 5
     pageCount: 1
     materialCount: 1
-  m_havePropertiesChanged: 1
+  m_havePropertiesChanged: 0
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_spriteAnimator: {fileID: 0}
-  m_isInputParsingRequired: 1
+  m_isInputParsingRequired: 0
   m_inputSource: 0
   m_hasFontAssetChanged: 0
   m_renderer: {fileID: 1769110737}
