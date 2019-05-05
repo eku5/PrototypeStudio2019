@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Auto Letterbox" t="Include">
+          <e p="Editor" t="Include">
+            <e p="ForceCameraRatioEditor.cs" t="Include" />
+          </e>
+          <e p="ForceCameraRatio.cs" t="Include" />
+        </e>
         <e p="Scripts" t="Include">
+          <e p="RandQ.cs" t="Include" />
           <e p="RevealMemory.cs" t="Include" />
           <e p="SimpleAnimation.cs" t="Include" />
         </e>
