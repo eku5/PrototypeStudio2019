@@ -13,8 +13,10 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="RandQ.cs" t="Include" />
+          <e p="ReadyToDeactivate.cs" t="Include" />
           <e p="RevealMemory.cs" t="Include" />
           <e p="SimpleAnimation.cs" t="Include" />
+          <e p="ThemeManager.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Resources" t="Include">
