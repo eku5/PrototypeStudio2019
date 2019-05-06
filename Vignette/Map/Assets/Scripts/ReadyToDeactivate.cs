@@ -7,8 +7,15 @@ public class ReadyToDeactivate : MonoBehaviour
     public RevealMemory[] allTheMemoriesInThisTheme;
     public ThemeManager themeManager;
 
+    public AudioSource audioSource;
+    
+
     private bool allMemoriesSeen;
 
+    private void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
 
     // Update is called once per frame
     void Update()
@@ -30,12 +37,17 @@ public class ReadyToDeactivate : MonoBehaviour
 
         if (allMemoriesSeen)
         {
+            PlaySound();
             Debug.Log("allMemoriesSeen");
             themeManager.NextTheme();
             Destroy(this);
             
         }
-        
 
+    }
+    
+    public void PlaySound()
+    {
+        audioSource.Play();
     }
 }

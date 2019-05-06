@@ -8,10 +8,13 @@ public class ThemeManager : MonoBehaviour
     public int currentTheme;
 
     public int changeSceneTime;
+    
+    public AudioSource audioSource;
 
     void Start()
     {
         currentTheme = 0;
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -32,6 +35,7 @@ public class ThemeManager : MonoBehaviour
         }
         else
         {
+            PlaySound();
             Invoke("GoToEnd", changeSceneTime);
         }  
     }
@@ -39,6 +43,10 @@ public class ThemeManager : MonoBehaviour
     public void GoToEnd()
     {
         SceneManager.LoadScene(2);
+    }
+    public void PlaySound()
+    {
+        audioSource.Play();
     }
     
     
