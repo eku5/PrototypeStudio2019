@@ -11,7 +11,10 @@
           </e>
           <e p="ForceCameraRatio.cs" t="Include" />
         </e>
+        <e p="DoNotDestroy.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="MouseOverAudio.cs" t="Include" />
+          <e p="Next.cs" t="Include" />
           <e p="RandQ.cs" t="Include" />
           <e p="ReadyToDeactivate.cs" t="Include" />
           <e p="RevealMemory.cs" t="Include" />
